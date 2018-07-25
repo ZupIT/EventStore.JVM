@@ -483,3 +483,5 @@ We are using the same approach - [config](https://github.com/typesafehub/config)
 It is possible to use client against cluster of Event Store.
 For this you need to configure client via `eventstore.cluster` section in [`reference.conf`](src/main/resources/reference.conf) or [`ClusterSettings`](src/main/scala/eventstore/cluster/ClusterSettings.scala).
 Using `application.conf` for configuration is more preferable option.
+
+Teste
